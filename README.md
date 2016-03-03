@@ -14,7 +14,7 @@
 ## Install
 
 ```sh
-npm i -D deepstream.io-pipeline
+npm i -S deepstream.io-pipeline
 ```
 
 ## Basic info
